@@ -1,0 +1,19 @@
+.product-list-item{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.checkout{
+    background: linear-gradient(#9198e5,#9198e5ae,#fdc4c4d2,#fdc4c4d2,#fdc4c4d2,#fdc4c400);
+    height: 100vh;
+}
+.checkout-h{
+    color: white;
+    margin-top: 50px;
+}
+.product-cart-item{
+    border:1px solid rgb(186, 186, 186);
+    background-color: white;
+}
